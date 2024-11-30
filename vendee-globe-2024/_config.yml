@@ -5,10 +5,10 @@
 
 #######################################################################################
 # Book settings
-title                       : Vendée Globe 2024  # The title of the book. Will be placed in the left navbar.
+title                       : Vendée Globe 2024 hobby/fan data page # The title of the book. Will be placed in the left navbar.
 author                      : Josep Mones Teixidor  # The author of the book
 copyright                   : "2024"  # Copyright year to be placed in the footer
-logo                        : logo.svg  # A path to the book logo
+# logo                        : logo.svg  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
